@@ -1,0 +1,2 @@
+# Taxonomic overmatching analysis 
+This repository documents the taxonomic overmatching analysis for the preprint and submission of "Environmental DNA Reveals Reykjavík’s Human and Ecological History"; doi: https://doi.org/10.1101/2025.10.08.681091. The analysis includes remapping and taxonomic identification of eleven different genera within the two plant families Rosaceae and Poaceae. The goal was to explain the presence of Iceland's non-native detected taxonomic groups and show the database limitations, we experienced. 
